@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "@mode": "optional,forced",
+  "mode": "optional",
+  "notes": "测试：第一条\n第二条",
+  "variants": {
+    "ESP32": {
+      "url": "https://github.com/pengling621/wled-builds/releases/download/v1.0.1/WLED_17.0.0-dev-v1.0.1_ESP32.bin",
+      "file": "WLED_17.0.0-dev-v1.0.1_ESP32.bin"
+    }
+  }
+}
