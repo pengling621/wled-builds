@@ -5,8 +5,9 @@
   "notes": "支持油漆桶、画笔、颜色组合\n支持远程自定义OTA",
   "variants": {
     "ESP32": {
-      "url": "https://cdn.shopify.com/s/files/1/0550/3523/2461/files/WLED_17.0.0-dev-v1.0.1_ESP32.bin?v=1779066511",
-      "file": "WLED_17.0.0-dev-v1.0.1_ESP32.bin"
+      "@url": "https://cdn.shopify.com/s/files/1/0550/3523/2461/files/WLED_17.0.0-dev-v1.0.1_ESP32.bin?v=1779066511",
+      "url": "https://gitee.com/top-iot/tuya_wled_dual_mode/releases/download/1.0.1/WLED_17.0.0-dev-1.0.1.beta_ESP32.bin",
+      "file": "WLED_17.0.0-dev-v1.0.1.beta_ESP32.bin"
     }
   }
 }
