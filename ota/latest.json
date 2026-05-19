@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "@mode": "optional,forced",
-  "mode": "optional",
+  "mode": "forced",
   "notes": "支持油漆桶、画笔、颜色组合\n支持远程自定义OTA",
   "variants": {
     "ESP32": {
